@@ -19,4 +19,14 @@ This is a Project Development Assignment 3
 - Then you will good to go 
 - Once you do that you will see below screen ...
 
- 
+![Capture](https://user-images.githubusercontent.com/32321048/179579396-33173951-5f4a-4fca-97ba-941533324d1c.PNG)
+
+
+
+# Why I choose the GNU licenses
+
+- Widely used for many developers
+- Free to their users
+- open source
+- Free to run/learn/modify and share software :)
+
