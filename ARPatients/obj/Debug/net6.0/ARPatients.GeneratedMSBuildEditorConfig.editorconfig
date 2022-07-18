@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ARPatients
+build_property.RootNamespace = ARPatients
+build_property.ProjectDir = D:\CAD 2\MS Web Tech\Assignment 1\ARPatients\ARPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CAD 2\MS Web Tech\Assignment 1\ARPatients\ARPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARConcentrationUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb25jZW50cmF0aW9uVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARConcentrationUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb25jZW50cmF0aW9uVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARConcentrationUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb25jZW50cmF0aW9uVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARConcentrationUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb25jZW50cmF0aW9uVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARConcentrationUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb25jZW50cmF0aW9uVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARCountry/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb3VudHJ5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARCountry/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb3VudHJ5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARCountry/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb3VudHJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARCountry/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb3VudHJ5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARCountry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJDb3VudHJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDiagnosisCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaWFnbm9zaXNDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDiagnosisCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaWFnbm9zaXNDYXRlZ29yeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDiagnosisCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaWFnbm9zaXNDYXRlZ29yeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDiagnosisCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaWFnbm9zaXNDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDiagnosisCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaWFnbm9zaXNDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDispensingUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaXNwZW5zaW5nVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDispensingUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaXNwZW5zaW5nVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDispensingUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaXNwZW5zaW5nVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDispensingUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaXNwZW5zaW5nVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARDispensingUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJEaXNwZW5zaW5nVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARMedicationTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJNZWRpY2F0aW9uVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARMedicationTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJNZWRpY2F0aW9uVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARMedicationTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJNZWRpY2F0aW9uVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARMedicationTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJNZWRpY2F0aW9uVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/ARMedicationTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJNZWRpY2F0aW9uVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CAD 2/MS Web Tech/Assignment 1/ARPatients/ARPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5b7ol4l1at
